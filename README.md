@@ -7,8 +7,12 @@ I am a Frontend Developer focused on building real-world web applications and im
 - CSS
 - Bootstrap
 - JavaScript
+- Flask
+- Django-learning
+- Sql --(Mongodb -- learning)
 
 ## 📂 Projects
+- Flask TODO App
 - Student Profile Dashboard  
 - Currency Converter (API-based)  
 - Cryptography Visualizer  
