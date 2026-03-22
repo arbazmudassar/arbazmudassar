@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Arbaz 👋
 
-<!--
-**arbazmudassar/arbazmudassar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Frontend Developer focused on building real-world web applications and improving my development skills.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Student Profile Dashboard  
+- Currency Converter (API-based)  
+- Cryptography Visualizer  
+- Portfolio Website  
+
+## 🔗 Connect with Me
+- LinkedIn: https://linkedin.com/in/arbaz-mudassar
+- GitHub: https://github.com/arbazmudassar
