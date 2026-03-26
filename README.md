@@ -16,7 +16,8 @@ I am a Frontend Developer focused on building real-world web applications and im
 - Student Profile Dashboard  
 - Currency Converter (API-based)  
 - Cryptography Visualizer  
-- Portfolio Website  
+- Portfolio Website
+- Responsive e-commerce Website 
 
 ## 🔗 Connect with Me
 - LinkedIn: https://linkedin.com/in/arbaz-mudassar
