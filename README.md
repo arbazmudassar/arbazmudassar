@@ -49,4 +49,4 @@ I am currently focusing on improving my frontend development skills and building
 
 ## 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/arbaz-mudassar  
-- GitHub: github.com/arbazmudassar
+- GitHub: [github.com/arbazmudassar](https://github.com/arbazmudassar)
