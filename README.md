@@ -97,9 +97,7 @@ Interactive tool for visualizing common cryptography algorithms step by step.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arbazmudassar&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbazmudassar&layout=compact&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=arbazmudassar&theme=github-dark&hide_border=true" />
 </p>
 
 ---
